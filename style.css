@@ -1,0 +1,21 @@
+header {
+
+    background-color: blue;
+    margin: 10px 20px 10px
+
+}
+div {
+
+    background-color: aqua;
+    margin: 40px 50px
+}
+
+h1 {
+
+    background-color: aquamarine;
+    padding: 20px 30px 20px 30px
+}
+p {
+    background-color: cornflowerblue;
+    padding: 10px 10px
+}
